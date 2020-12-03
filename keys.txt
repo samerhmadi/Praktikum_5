@@ -1,0 +1,123 @@
+151	Mobilität
+148	Fahrkultur
+58	Oldtimer-Schnäppchen
+56	Oldtimer
+51	Autodesign
+47	Schönes Ding - die skurrilsten Auto-Designstudien
+32	Autoklassiker
+11	Autos unterm Hammer
+9	BMW-Modelle
+8	Mercedes-Benz-Modelle
+7	Elektroautos
+6	Volkswagen
+6	VW-Modelle
+6	Porsche-Modelle
+6	Opel-Modelle
+5	Volvo-Modelle
+5	Subaru
+5	Porsche
+5	Alfa Romeo
+4	Jaguar-Modelle
+4	Ford-Modelle
+4	Ford
+4	BMW
+4	Audi-Modelle
+4	Altmetall
+3	Volvo
+3	Toyota-Modelle
+3	Tests
+3	Steve McQueen
+3	Saab-Modelle
+3	Saab
+3	Renault-Modelle
+3	Porsche 911
+3	Mitsubishi
+3	Honda-Modelle
+3	Citroën-Modelle
+3	Camping
+3	Audi
+3	Alternative Antriebe
+2	VW Käfer
+2	Urlaub und Freizeit
+2	Sportwagen
+2	Smart
+2	Opel
+2	Nutzfahrzeuge
+2	Motorsport
+2	Motorräder
+2	Mitsubishi-Modelle
+2	Mini-Modelle
+2	Mercedes A-Klasse
+2	Mazda-Modelle
+2	Mazda
+2	James Bond
+2	Jaguar
+2	Honda
+2	Harley-Davidson
+2	Ferry Porsche
+2	Ferrari-Modelle
+2	Ferdinand Porsche
+2	Ferdinand Piëch
+2	Chrysler-Modelle
+2	BMW 5er
+2	Autoreifen
+2	60 deutsche Autos
+2	24-Stunden-Rennen von Le Mans
+1	Yamaha
+1	Wolfgang Porsche
+1	VW Golf
+1	VW Bus
+1	Umweltfreundliche Fahrzeuge
+1	Toyota
+1	Tokio Motor Show
+1	Suzuki-Modelle
+1	Service für den Urlaub
+1	Renault
+1	Prototypen im Test
+1	Peugeot-Modelle
+1	Niki Lauda
+1	Nicolae Ceausescu
+1	Musik
+1	Mietwagen
+1	Michelin
+1	Michael Schumacher
+1	Mercedes S-Klasse
+1	Mercedes C-Klasse
+1	Maybach
+1	Maserati
+1	MG Rover Group
+1	Lotus Cars
+1	Lexus-Modelle
+1	Lexus
+1	Lancia
+1	Kleinwagen
+1	Kleinstwagen
+1	Japan
+1	Italien
+1	IAA 2017
+1	Honda Motorräder
+1	Hollywood
+1	Giovanni &#34;Gianni&#34; Agnelli
+1	General Motors
+1	Geländewagen
+1	Formel 1
+1	Film
+1	Fiat Chrysler Automobiles (FCA)
+1	Ferrari F1
+1	Ferrari
+1	Ferdinand Alexander Porsche
+1	Fahrzeugtechnik
+1	Fahrräder
+1	E-Scooter
+1	E-Bikes
+1	Dänemark
+1	Dodge-Modelle
+1	Chrysler
+1	Chevrolet
+1	Camping-Zubehör
+1	Cabrio/Roadster
+1	Borgward
+1	Benzinbücher
+1	Belgien
+1	Auto
+1	Abgasaffäre bei Volkswagen
