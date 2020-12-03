@@ -62,6 +62,7 @@
 2	BMW 5er
 2	Autoreifen
 2	60 deutsche Autos
+2	34
 2	24-Stunden-Rennen von Le Mans
 1	Yamaha
 1	Wolfgang Porsche
@@ -97,7 +98,8 @@
 1	IAA 2017
 1	Honda Motorräder
 1	Hollywood
-1	Giovanni &#34;Gianni&#34; Agnelli
+1	Giovanni 
+1	Gianni
 1	General Motors
 1	Geländewagen
 1	Formel 1
@@ -120,4 +122,5 @@
 1	Benzinbücher
 1	Belgien
 1	Auto
+1	Agnelli
 1	Abgasaffäre bei Volkswagen
