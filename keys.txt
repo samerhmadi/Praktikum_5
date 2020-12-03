@@ -62,7 +62,6 @@
 2	BMW 5er
 2	Autoreifen
 2	60 deutsche Autos
-2	34
 2	24-Stunden-Rennen von Le Mans
 1	Yamaha
 1	Wolfgang Porsche
